@@ -4,12 +4,7 @@ public class person {
 	
 	private String name;
 	private address address;
-	
-	
-	
-	
-
-
+	//we cant achieve multiple inheritance at class level because of ambiguity issue (compiler confuse between multipe parents same method)
 
 	public person(String name, address address) {
 		super();
