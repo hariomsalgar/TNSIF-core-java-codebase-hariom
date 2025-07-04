@@ -1,4 +1,5 @@
-package com.tnsif.multiinheritance;
+package com.tnsif.multilevelinheritance;
+//multilevel inheritance
 
 public class state extends country{
 	private String statename;

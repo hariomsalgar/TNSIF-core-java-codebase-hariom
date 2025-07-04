@@ -1,5 +1,5 @@
-package com.tnsif.multiinheritance;
-
+package com.tnsif.multilevelinheritance;
+//multilevel inheritance
 public class multiinheritancedemo {
 	public static void main(String[] args) {
 		city c=new city();
